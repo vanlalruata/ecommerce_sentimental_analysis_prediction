@@ -1,0 +1,69 @@
+{
+  "reviews_preprocessed": 525814,
+  "merged_sales_rows": 178405,
+  "channel_profit": {
+    "Shiprocket": NaN,
+    "INCREFF": 15.069999999999999
+  },
+  "mrp_cols": [
+    "MRP Old",
+    "Final MRP Old",
+    "Ajio MRP",
+    "Amazon MRP",
+    "Amazon FBA MRP",
+    "Flipkart MRP",
+    "Limeroad MRP",
+    "Myntra MRP",
+    "Paytm MRP",
+    "Snapdeal MRP"
+  ],
+  "sentiment_experiment_summary": {
+    "accuracy": {
+      "mean": 0.9562689386735638,
+      "std": 0.0009893021096461104
+    },
+    "precision_macro": {
+      "mean": 0.9388240079973482,
+      "std": 0.0015741054796419198
+    },
+    "recall_macro": {
+      "mean": 0.8899359807417209,
+      "std": 0.002633495751381465
+    },
+    "f1_macro": {
+      "mean": 0.9121492112392998,
+      "std": 0.002120545788255805
+    },
+    "per_class": {
+      "positive": {
+        "precision_mean": 0.9627424796203572,
+        "precision_std": 0.0008886009247832112,
+        "recall_mean": 0.9863566031216668,
+        "recall_std": 0.00039499640192994657,
+        "f1_mean": 0.9744063317644522,
+        "f1_std": 0.0005712390440279052,
+        "support_mean": 66567.0,
+        "support_std": 0.0
+      },
+      "negative": {
+        "precision_mean": 0.9149055363743394,
+        "precision_std": 0.002521119020053838,
+        "recall_mean": 0.7935153583617748,
+        "recall_std": 0.005075279114391527,
+        "f1_mean": 0.8498920907141475,
+        "f1_std": 0.003671341150243107,
+        "support_mean": 12306.0,
+        "support_std": 0.0
+      }
+    }
+  },
+  "sales_experiment_summary_overview": {
+    "overall": {
+      "amount_mean": 648.5614647631622,
+      "amount_std": 281.2116872291525,
+      "qty_mean": 0.9044310912967629,
+      "qty_std": 0.3133535856501447
+    },
+    "top_skus_count": 20
+  }
+}

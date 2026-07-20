@@ -1,0 +1,22 @@
+Sales experiment summary
+
+Overall stats:
+  amount_mean: 648.5615
+  amount_std: 281.2117
+  qty_mean: 0.9044
+  qty_std: 0.3134
+
+Top SKU stats (saved to top_skus_stats.csv)
+
+Per-region stats saved to sales_region_stats.csv (sample):
+        region  revenue_sum  revenue_mean  revenue_std  qty_mean  qty_std  n_orders
+   MAHARASHTRA  13335534.14    632.825613   272.245557  0.913208 0.291263   22260.0
+     KARNATAKA  10481114.37    639.326239   272.885836  0.917754 0.288280   17326.0
+     TELANGANA   6916615.65    650.241201   278.804190  0.904943 0.307700   11330.0
+ UTTAR PRADESH   6816642.08    685.296278   297.141854  0.892931 0.324930   10638.0
+    TAMIL NADU   6515650.11    602.798604   263.917138  0.906732 0.312754   11483.0
+         DELHI   4235215.97    662.477080   283.718944  0.907697 0.297018    6782.0
+        KERALA   3830227.58    622.699980   251.887219  0.882764 0.331949    6585.0
+   WEST BENGAL   3507880.44    632.392363   272.226395  0.891833 0.320713    5963.0
+ANDHRA PRADESH   3219831.72    636.959786   289.880876  0.887477 0.341798    5430.0
+       HARYANA   2882092.99    688.178842   296.999372  0.920951 0.293183    4415.0

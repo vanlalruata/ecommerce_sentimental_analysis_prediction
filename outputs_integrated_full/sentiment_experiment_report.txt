@@ -1,0 +1,13 @@
+Sentiment experiment summary (runs=5):
+
+accuracy: 0.956269 ± 0.000989
+precision_macro: 0.938824 ± 0.001574
+recall_macro: 0.889936 ± 0.002633
+f1_macro: 0.912149 ± 0.002121
+
+Per-class stats:
+
+          precision_mean  precision_std  recall_mean  recall_std   f1_mean    f1_std  support_mean  support_std
+class                                                                                                          
+positive        0.962742       0.000889     0.986357    0.000395  0.974406  0.000571       66567.0          0.0
+negative        0.914906       0.002521     0.793515    0.005075  0.849892  0.003671       12306.0          0.0
