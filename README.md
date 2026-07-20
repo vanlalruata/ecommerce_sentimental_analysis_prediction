@@ -21,6 +21,10 @@ The primary entry point is `ecommerce_sentimental_analysis_prediction/amazon_eco
 - Python 3.8+
 - Packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `joblib`
 
+### Dataset
+1. [Sentiment Amazon Product Reviews Dataset](https://www.kaggle.com/code/tunahandemir173/sentiment-analysis-on-amazon-product-reviews/input)
+2. [Ecommerce Sales Report Dataset](https://www.kaggle.com/code/kartikmanekar007/e-commerce-sales-dataset/input)
+
 Install via pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
