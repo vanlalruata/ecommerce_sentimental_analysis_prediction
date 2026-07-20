@@ -90,8 +90,8 @@ Note: Some comments in the script mention `.svg`; the current implementation sav
 Example command (Windows paths shown):
 ```bash
 python ecommerce_sentimental_analysis_prediction/amazon_ecom_analysis_integrated_full.py \
-  --reviews "H:/Datasets/ecommerce/ecommerce_review/Reviews.csv" \
-  --sales_folder "H:/Datasets/ecommerce/ecommerce_sale" \
+  --reviews "H:/ecommerce/ecommerce_review/Reviews.csv" \
+  --sales_folder "H:/ecommerce/ecommerce_sale" \
   --sentiment_runs 5 \
   --max_tfidf_features 50000 \
   --topn_skus 20
