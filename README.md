@@ -20,7 +20,7 @@ This research and codebase accompanies the following academic publication:
 - **Book:** *AI Regulation in Industry 5.0*
 - **DOI:** [`10.1007/978-981-92-5407-1`](https://doi.org/10.1007/978-981-92-5407-1)
 - **Chapter Title:** *AI-Driven E-Commerce in Industry 5.0: Ethical, Regulatory, and Predictive Insights for India*
-- **Authors** *Runu Patgiri, Vanlalruata Hnamte, Gurram Ramakrishna*
+- **Authors:** *Runu Patgiri, Vanlalruata Hnamte, Gurram Ramakrishna*
 - **Publisher:** Springer Nature (*Artificial Intelligence and the Rule of Law* series)
 
 ### Citation (BibTeX)
@@ -138,7 +138,7 @@ Clone the repository and install the dependencies:
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/ecommerce_sentimental_analysis_prediction.git
+git clone https://github.com/vanlalruata/ecommerce_sentimental_analysis_prediction.git
 cd ecommerce_sentimental_analysis_prediction
 
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
