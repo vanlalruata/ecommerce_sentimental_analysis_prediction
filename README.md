@@ -8,7 +8,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-3776AB.svg?style=flat)](https://seaborn.pydata.org/)
 [![Joblib](https://img.shields.io/badge/Joblib-1.5.3-4B8BBE.svg?style=flat)](https://joblib.readthedocs.io/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--92--5407--1-blue.svg?style=flat&logo=doi&logoColor=white)](https://doi.org/10.1007/978-981-92-5407-1){:target="_blank"}
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--92--5407--1-blue.svg?style=flat&logo=doi&logoColor=white)](https://doi.org/10.1007/978-981-92-5407-1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 
 ---
@@ -18,7 +18,7 @@
 This research and codebase accompanies the following academic publication:
 
 - **Book:** *AI Regulation in Industry 5.0*
-- **DOI:** [`10.1007/978-981-92-5407-1`](https://doi.org/10.1007/978-981-92-5407-1){:target="_blank"}
+- **DOI:** [10.1007/978-981-92-5407-1](https://doi.org/10.1007/978-981-92-5407-1)
 - **Chapter Title:** *AI-Driven E-Commerce in Industry 5.0: Ethical, Regulatory, and Predictive Insights for India*
 - **Authors:** *Runu Patgiri, Vanlalruata Hnamte, Gurram Ramakrishna*
 - **Publisher:** Springer Nature (*Artificial Intelligence and the Rule of Law* series)
